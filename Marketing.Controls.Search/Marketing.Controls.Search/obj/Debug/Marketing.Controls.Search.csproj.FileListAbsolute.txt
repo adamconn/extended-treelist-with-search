@@ -1,0 +1,4 @@
+c:\users\adc\documents\visual studio 2012\Projects\Marketing.Controls.Search\Marketing.Controls.Search\bin\Debug\Marketing.Controls.Search.dll
+c:\users\adc\documents\visual studio 2012\Projects\Marketing.Controls.Search\Marketing.Controls.Search\bin\Debug\Marketing.Controls.Search.pdb
+c:\users\adc\documents\visual studio 2012\Projects\Marketing.Controls.Search\Marketing.Controls.Search\obj\Debug\Marketing.Controls.Search.dll
+c:\users\adc\documents\visual studio 2012\Projects\Marketing.Controls.Search\Marketing.Controls.Search\obj\Debug\Marketing.Controls.Search.pdb
